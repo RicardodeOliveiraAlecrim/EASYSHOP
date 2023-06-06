@@ -4,6 +4,6 @@
 <br>
 <p>O conteúdo pode ser acessado no computador como em um celular, temos também incluído link no conteúdo.</p>
 
-<img  width="500px" display="inline-block" src="./assets/Display-Easyshop.png"/>
+<img  width="750px" display="inline-block" src="./assets/Display-Easyshop.png"/>
 
 
